@@ -113,7 +113,9 @@ This project demonstrates understanding of:
 ## Assignment Information
 
 **Unit:** COMP3003 Software Architecture and Extensible Design 
+
 **Assignment:** Assignment 1
+
 **Semester:** 2025, Semester 2
 
 <p align="center">
